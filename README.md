@@ -21,8 +21,10 @@
 
 ## 설치 및 실행
 ```bash
-!git clone 
-
+!git clone https://github.com/jh941213/my_AI_CV_tutor.git
+cd dir
+# 사용하시는 용도에 맞게 Prompt 를 수정해주세요, API key 수정해주세요 만료되었습니다
+streamlit run app.py
 ```
 ## 개발자 정보
 - 개발자: 미남홀란드
